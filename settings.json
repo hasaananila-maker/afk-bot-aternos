@@ -1,11 +1,11 @@
-name": "BOT_Name",
-  "bot-account": 788
-    "username": "Dbgaming_Live",
+name": "AFK Bot",
+  "bot-account": {
+    "username": "DbgamingLive",
     "password": "",
     "type": "offline"
-  BOT_Nome,
+  },
   "server": {
-    "ip": "HASAAN_BISMA.aternos.me",
+    "ip": HASAAN_BISMA.aternos.me",
     "port": 20170,
     "version": "2.26"
   },

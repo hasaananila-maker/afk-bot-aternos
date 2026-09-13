@@ -7,7 +7,7 @@ name": "AFK Bot",
   "server": {
     "ip": HASAAN_BISMA.aternos.me",
     "port": 20170,
-    "version": "2.26"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
